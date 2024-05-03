@@ -1,4 +1,5 @@
-nltk==3.6.5
-pandas==1.3.3
-scikit-learn==0.24.2
-xgboost==1.5.1
+nltk
+pandas
+scikit-learn
+spacy
+streamlit
